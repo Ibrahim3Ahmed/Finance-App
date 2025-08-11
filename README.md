@@ -1,4 +1,4 @@
-# new_learn
+# Finance App
 
 A new Flutter project.
 
