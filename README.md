@@ -1,16 +1,28 @@
-# Finance App
+# 📱 Finance App
 
-A new Flutter project.
+تطبيق Flutter لإدارة المعاملات المالية، مع واجهة حديثة و Bottom Navigation Bar، وإمكانية تصفية وعرض المعاملات مع دعم أيقونات SVG.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ المميزات
+- تسجيل الدخول (Login Screen)  
+- واجهة رئيسية لعرض المعاملات (Home Screen)  
+- Bottom Navigation Bar للتنقل بين الصفحات  
+- تصفية المعاملات حسب النوع أو التاريخ  
+- دعم أيقونات SVG  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 صور التطبيق
+| شاشة تسجيل الدخول | الشاشة الرئيسية |
+|------------------|----------------|
+| ![Login](screenshots/login.png) | ![Home](Screenshot2025-08-08 065815/home.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 طريقة التشغيل
+1. تأكد من تثبيت [Flutter](https://flutter.dev/docs/get-started/install)
+2. انسخ المستودع:
+   ```bash
+   git clone https://github.com/Ibrahim3Ahmed/Finance-App.git
+
